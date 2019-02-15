@@ -1,4 +1,4 @@
-# FullStack Learning Path
+# FullStack Learning Path (WIP)
 
 Um guia objetivo e prático para te guiar no aprendizado fullstack passando por backend e frontend.
 
