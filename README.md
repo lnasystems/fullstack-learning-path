@@ -18,7 +18,7 @@ Uma característica fundamental de programadores experientes é escrever menos c
  
 ## Fundação
 
-Um profissional não resolve nada sem conhecer suas ferramentas e sem saber se comunicar. É o básico do básico. Então vamos investir um tempo para fortalecer a base. Primeiro, assista o vídeo [Conhecimentos Básicos para Iniciantes em Programação](https://www.youtube.com/watch?v=sx4hAHhO9CY) _(21m)_ que irá dar uma visão prática de como é começar em Progração, depois continue nos itens abaixo:
+Um profissional não resolve nada sem conhecer suas ferramentas e sem saber se comunicar. É o básico do básico. Então vamos investir um tempo para fortalecer a base. Primeiro, assista o vídeo [Conhecimentos Básicos para Iniciantes em Programação](https://www.youtube.com/watch?v=sx4hAHhO9CY) _(21m)_ que irá dar uma visão prática de como é começar em Programação, depois continue nos itens abaixo:
 
 ### Inglês
 
