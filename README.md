@@ -22,11 +22,13 @@ Um profissional não resolve nada sem conhecer suas ferramentas e sem saber se c
 
 ### Inglês
 
-Não, esse guia não tem um curso de inglês embutido. Mas é extremamente importante saber se comunicar em inglês: ler, escrever, ouvir e falar. Esse guia deixa apenas o vídeo [Como eu aprendi Inglês? E entendendo "padrões"!](https://www.youtube.com/watch?v=OkboNGQ9LU0) como tarefa para que seja um start no seu estudo de inglês, que deve ocorrer em paralelo com o estudo de programação.
+Não, esse guia não tem um curso de inglês embutido. Mas é extremamente importante saber se comunicar em inglês: ler, escrever, ouvir e falar. Esse guia deixa apenas o vídeo [Como eu aprendi Inglês? E entendendo "padrões"](https://www.youtube.com/watch?v=OkboNGQ9LU0) _()_ como tarefa para que seja um start no seu estudo de inglês, que deve ocorrer em paralelo com o estudo de programação.
 
 ### Git
 
 [Git Going Fast: One Hour Git Crash Course](https://www.udemy.com/git-going-fast/) _(1h)_
+
+GtiHub Guides ?
 
 ### Sistema/Terminal
 
