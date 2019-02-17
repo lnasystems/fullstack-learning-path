@@ -5,6 +5,8 @@ Um guia objetivo e prático para te guiar no aprendizado fullstack passando por 
 Indicado para você que está começando, ou para um frontend que quer conhecer backend e vice-versa ou mesmo para você que quer reafirmar conceitos e aprimorar conhecimentos.
 
 A principal premissa desse guia é te **ensinar 20% de tudo para resolver 80% dos problemas**, pois o estudo e aprimoramento é constante, _ao infinito e além_. Você vai aprender aquele tanto suficiente para conseguir criar e ser produtivo.
+
+E pra cada assunto novo, você irá descobrir links e referências para áreas relacionadas. Calma, não mergulhe de cabeça em tudo porque irá se perder, vá anotando e fazendo um mapa mental pra te ajudar a ligar os pontos do cenário macro, porém se atente em seguir o guia que te dá o caminho do essencial primeiro.
  
 ## Senta que lá vem história...
 
