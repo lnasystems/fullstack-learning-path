@@ -73,5 +73,5 @@ TODO: html css javascript vuejs/angular/react
 
 ## Referências
  
- - [Conhecimentos Básicos para Iniciantes em Programação](https://www.youtube.com/watch?v=sx4hAHhO9CY)
- - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) 
+ - [Canal do Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
+ - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
