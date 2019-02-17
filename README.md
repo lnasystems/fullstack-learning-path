@@ -18,11 +18,11 @@ Uma característica fundamental de programadores experientes é escrever menos c
  
 ## Fundação
 
-Um profissional não resolve nada sem conhecer suas ferramentas e sem saber se comunicar. É o básico do básico. Então vamos investir um tempo para fortalecer a base.
+Um profissional não resolve nada sem conhecer suas ferramentas e sem saber se comunicar. É o básico do básico. Então vamos investir um tempo para fortalecer a base. Primeiro, assista o vídeo [Conhecimentos Básicos para Iniciantes em Programação](https://www.youtube.com/watch?v=sx4hAHhO9CY) _(21m)_ que irá dar uma visão prática de como é começar em Progração, depois continue nos itens abaixo:
 
 ### Inglês
 
-Não, esse guia não tem um curso de inglês embutido. Mas é extremamente importante saber se comunicar em inglês: ler, escrever, ouvir e falar. Esse guia deixa apenas o vídeo [Como eu aprendi Inglês? E entendendo "padrões"](https://www.youtube.com/watch?v=OkboNGQ9LU0) _()_ como tarefa para que seja um start no seu estudo de inglês, que deve ocorrer em paralelo com o estudo de programação.
+Não, esse guia não tem um curso de inglês embutido. Mas é extremamente importante saber se comunicar em inglês: ler, escrever, ouvir e falar. Esse guia deixa apenas o vídeo [Como eu aprendi Inglês? E entendendo "padrões"](https://www.youtube.com/watch?v=OkboNGQ9LU0) _(25m)_ como tarefa para que seja um start no seu estudo de inglês, que deve ocorrer em paralelo com o estudo de programação.
 
 ### Git
 
@@ -66,6 +66,7 @@ TODO: html css javascript vuejs/angular/react
  - [ ] Assistir vídeo História das linguagens parte 1
  - [ ] Assistir vídeo História das linguagens parte 2
  - [ ] Ler artigo YAGNI
+ - [ ] Conhecimentos Básicos para Iniciantes em Programação
  - [ ] Assistir vídeo Como eu aprendi Inglês ?
  - [ ] Completar o curso de Git
  - [ ] Completar o curso Elixir for Programmers
