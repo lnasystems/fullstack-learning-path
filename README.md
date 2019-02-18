@@ -1,6 +1,6 @@
 # FullStack Learning Path (WIP)
 
-Um guia objetivo e prático para te guiar no aprendizado fullstack passando por backend e frontend.
+Um guia objetivo e prático para te guiar no aprendizado fullstack passando por backend, frontend e devops.
 
 Indicado para você que está começando, ou para um frontend que quer conhecer backend e vice-versa ou mesmo para você que quer reafirmar conceitos e aprimorar conhecimentos.
 
