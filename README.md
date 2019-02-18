@@ -4,7 +4,11 @@ Um guia objetivo e prático para te guiar no aprendizado fullstack passando por 
 
 Indicado para você que está começando, ou para um frontend que quer conhecer backend e vice-versa ou mesmo para você que quer reafirmar conceitos e aprimorar conhecimentos.
 
-A principal premissa desse guia é te **ensinar 20% de tudo para resolver 80% dos problemas**, pois o estudo e aprimoramento é constante, _ao infinito e além_. Você vai aprender aquele tanto suficiente para conseguir criar e ser produtivo.
+Esse guia adota duas premissas:
+
+1. Te **ensinar 20% de tudo para resolver 80% dos problemas**, pois o estudo e aprimoramento é constante, _ao infinito e além_. Você vai aprender aquele tanto suficiente para conseguir criar e ser produtivo.
+
+2. Não existe bala de prata. As tecnologias desse guia foram selecionadas pois atendem o contexto e a realidade da LNA Systems, e isso não significa que são são verdades absolutas pra todos casos.
 
 E pra cada assunto novo, você irá descobrir links e referências para áreas relacionadas. Calma, não mergulhe de cabeça em tudo porque irá se perder, vá anotando e fazendo um mapa mental pra te ajudar a ligar os pontos do cenário macro, porém se atente em seguir o guia que te dá o caminho do essencial primeiro.
  
@@ -38,7 +42,7 @@ TODO
 
 ### Elixir
 
-Como você já aprendeu, existem centenas de linguagens com variados propósitos e não existe bala de prata. E este guia adota a linguagem [Elixir](https://elixir-lang.org) pelos seguintes motivos:
+Como você já aprendeu, existem centenas de linguagens com variados propósitos e não existe a linguagem perfeita. E este guia adota a linguagem [Elixir](https://elixir-lang.org) pelos seguintes motivos:
 
  - [The Free Lunch Is Over](http://www.gotw.ca/publications/concurrency-ddj.htm) (_não precisa ler este artigo inteiro mas fique a vontade se quiser_). O ponto crucial é: "The major processor manufacturers and architectures, from Intel and AMD to Sparc and PowerPC, have run out of room with most of their traditional approaches to boosting CPU performance. Instead of driving clock speeds and straight-line instruction throughput ever higher, they are instead turning en masse to hyperthreading and multicore architectures.". Portanto, uma linguagem que possui suporte nativo a concorrência tem mais chances de sobreviver no longo prazo.
  - Por possuir recursos como imutabilidade, pattern matching, documentação como first-class citizen, processos, tolerância a falhas, streams e um bom tooling nativo. (Você vai aprender tudo isso)
