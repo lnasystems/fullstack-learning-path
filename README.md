@@ -28,6 +28,10 @@ Um profissional não resolve nada sem conhecer suas ferramentas e sem saber se c
 
 Não, esse guia não tem um curso de inglês embutido. Mas é extremamente importante saber se comunicar em inglês: ler, escrever, ouvir e falar. Esse guia deixa apenas o vídeo [Como eu aprendi Inglês? E entendendo "padrões"](https://www.youtube.com/watch?v=OkboNGQ9LU0) _(25m)_ como tarefa para que seja um start no seu estudo de inglês, que deve ocorrer em paralelo com o estudo de programação.
 
+### Lógica de Programação
+
+[Livro Lógica de Programação](https://www.casadocodigo.com.br/products/livro-programacao) - adquirir raciocínio lógico e conhecer as estruturas bases da programação é essencial antes de aprender uma linguaguem ou plataforma específica.
+
 ### Git
 
 [Git Going Fast: One Hour Git Crash Course](https://www.udemy.com/git-going-fast/) _(1h)_
