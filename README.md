@@ -8,7 +8,7 @@ Esse guia adota duas premissas:
 
 1. Te **ensinar 20% de tudo para resolver 80% dos problemas**, pois o estudo e aprimoramento é constante, _ao infinito e além_. Você vai aprender aquele tanto suficiente para conseguir criar e ser produtivo.
 
-2. Não existe bala de prata. As tecnologias desse guia foram selecionadas pois atendem o contexto e a realidade da LNA Systems, e isso não significa que são são verdades absolutas pra todos casos.
+2. **Não existe bala de prata**. As tecnologias desse guia foram selecionadas pois atendem o contexto e a realidade da LNA Systems, e isso não significa que são são verdades absolutas pra todos casos.
 
 E pra cada assunto novo, você irá descobrir links e referências para áreas relacionadas. Calma, não mergulhe de cabeça em tudo porque irá se perder, vá anotando e fazendo um mapa mental pra te ajudar a ligar os pontos do cenário macro, porém se atente em seguir o guia que te dá o caminho do essencial primeiro.
  
