@@ -30,13 +30,15 @@ Não, esse guia não tem um curso de inglês embutido. Mas é extremamente impor
 
 ### Lógica de Programação
 
-[Livro Lógica de Programação](https://www.casadocodigo.com.br/products/livro-programacao) - adquirir raciocínio lógico e conhecer as estruturas bases da programação é essencial antes de aprender uma linguaguem ou plataforma específica.
+Adquirir raciocínio lógico e conhecer as estruturas bases da programação é essencial antes de aprender uma linguaguem ou plataforma específica.
+
+[Livro Lógica de Programação](https://www.casadocodigo.com.br/products/livro-programacao)
 
 ### Git
 
-[Git Going Fast: One Hour Git Crash Course](https://www.udemy.com/git-going-fast/) _(1h)_
+De nada adianta escrever código se não puder compartilhar com outras pessoas ou se não puder obter o código de outros. Programação sem Git é como viver numa ilha deserta.
 
-GtiHub Guides ?
+[GitHub Guides](https://guides.github.com/)
 
 ### Sistema/Terminal
 
@@ -76,7 +78,8 @@ TODO: html css javascript vuejs/angular/react
  - [ ] Ler artigo YAGNI
  - [ ] Conhecimentos Básicos para Iniciantes em Programação
  - [ ] Assistir vídeo Como eu aprendi Inglês ?
- - [ ] Completar o curso de Git
+ - [ ] Leo o livro Lógica de Programação
+ - [ ] Completar os tutoriais do GitHub Guides
  - [ ] Completar o curso Elixir for Programmers
 
 ## Referências
