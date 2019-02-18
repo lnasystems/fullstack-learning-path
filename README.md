@@ -72,15 +72,22 @@ E finalmente chegamos na parte visual, mas não menos importante. O primeiro pas
 
 TODO: html css javascript vuejs/angular/react
 
-## Ações
- - [ ] Assistir vídeo História das linguagens parte 1
- - [ ] Assistir vídeo História das linguagens parte 2
- - [ ] Ler artigo YAGNI
- - [ ] Conhecimentos Básicos para Iniciantes em Programação
- - [ ] Assistir vídeo Como eu aprendi Inglês ?
- - [ ] Leo o livro Lógica de Programação
+## Fluxo de Trabalho
+
+Partindo pra prática no mundo real, o primeiro passo é entender o fluxo de trabalho onde é adotado o Kanban.
+
+[Kanban em 5 minutos](https://vimeo.com/145281435) _(5m)_
+
+## Tasks para acompanhar o progresso
+ - [ ] Assistir o vídeo História das linguagens parte 1
+ - [ ] Assistir o vídeo História das linguagens parte 2
+ - [ ] Ler o artigo YAGNI
+ - [ ] Assistir o vídeo Conhecimentos Básicos para Iniciantes em Programação
+ - [ ] Assistir o vídeo Como eu aprendi Inglês ?
+ - [ ] Ler o livro Lógica de Programação
  - [ ] Completar os tutoriais do GitHub Guides
  - [ ] Completar o curso Elixir for Programmers
+ - [ ] Assistir o vídeo Kanban em 5 minutos
 
 ## Referências
  
