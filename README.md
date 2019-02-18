@@ -40,6 +40,8 @@ De nada adianta escrever código se não puder compartilhar com outras pessoas o
 
 [GitHub Guides](https://guides.github.com/)
 
+[git - the simple guide](http://rogerdudler.github.io/git-guide/index.html) - esse simples guia do Git vai te ajudar a reforçar o que foi aprendido no GitHub Guides e também serve como consulta no dia-a-dia. E sim, o git é uma ferramenta muito usada.
+
 ### Sistema/Terminal
 
 TODO
@@ -79,15 +81,16 @@ Partindo pra prática no mundo real, o primeiro passo é entender o fluxo de tra
 [Kanban em 5 minutos](https://vimeo.com/145281435) _(5m)_
 
 ## Tasks para acompanhar o progresso
- - [ ] Assistir o vídeo História das linguagens parte 1
- - [ ] Assistir o vídeo História das linguagens parte 2
- - [ ] Ler o artigo YAGNI
- - [ ] Assistir o vídeo Conhecimentos Básicos para Iniciantes em Programação
- - [ ] Assistir o vídeo Como eu aprendi Inglês ?
- - [ ] Ler o livro Lógica de Programação
- - [ ] Completar os tutoriais do GitHub Guides
- - [ ] Completar o curso Elixir for Programmers
- - [ ] Assistir o vídeo Kanban em 5 minutos
+ - [ ] Assistir o vídeo **História das linguagens parte 1**
+ - [ ] Assistir o vídeo **História das linguagens parte 2**
+ - [ ] Ler o artigo **YAGNI**
+ - [ ] Assistir o vídeo **Conhecimentos Básicos para Iniciantes em Programação**
+ - [ ] Assistir o vídeo **Como eu aprendi Inglês ?**
+ - [ ] Ler o livro **Lógica de Programação**
+ - [ ] Completar os tutoriais do **GitHub Guides**
+ - [ ] Ler o guia **git - the simple guide**
+ - [ ] Completar o curso **Elixir for Programmers**
+ - [ ] Assistir o vídeo **Kanban em 5 minutos**
 
 ## Referências
  
