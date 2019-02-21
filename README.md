@@ -48,6 +48,8 @@ TODO
 
 ## Backend
 
+Hora de aprender as entranhas dos sistemas. Comece assistindo Entendendo Back-End para Iniciantes em Programação [Parte 1](https://www.youtube.com/watch?v=Qjk-cSW-jk4) (_partes seguintes em breve_)
+
 ### Elixir
 
 Como você já aprendeu, existem centenas de linguagens com variados propósitos e não existe a linguagem perfeita. E este guia adota a linguagem [Elixir](https://elixir-lang.org) pelos seguintes motivos:
@@ -89,6 +91,7 @@ Partindo pra prática no mundo real, o primeiro passo é entender o fluxo de tra
  - [ ] Ler o livro **Lógica de Programação**
  - [ ] Completar os tutoriais do **GitHub Guides**
  - [ ] Ler o guia **git - the simple guide**
+ - [ ] Assistir o vídeo **Entendendo Back-End para Iniciantes em Programação parte 1**
  - [ ] Completar o curso **Elixir for Programmers**
  - [ ] Assistir o vídeo **Kanban em 5 minutos**
 
