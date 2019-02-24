@@ -8,7 +8,7 @@ Esse guia adota duas premissas:
 
 1. Te **ensinar 20% de tudo para resolver 80% dos problemas**, pois o estudo e aprimoramento é constante, _ao infinito e além_. Você vai aprender aquele tanto suficiente para conseguir criar e ser produtivo.
 
-2. **Não existe bala de prata**. As tecnologias desse guia foram selecionadas de acordo com critérios que atendem o contexto e a realidade da LNA Systems. Isso significa que essas tecnologias não são melhores que outras ou as únicas que deveriam ser estudadas, como dito é uma questão de contexto.
+2. **Não existe bala de prata**. As tecnologias desse guia foram selecionadas de acordo com critérios que atendem o contexto e a realidade da LNA Systems. Isso significa que essas tecnologias não são melhores que outras ou as únicas que deveriam ser estudadas durante a sua carreira.
 
 E pra cada assunto novo, você irá descobrir links e referências para áreas relacionadas. Calma, não mergulhe de cabeça em tudo porque irá se perder, vá anotando e fazendo um mapa mental pra te ajudar a ligar os pontos do cenário macro, porém se atente em seguir o guia que te dá o caminho do essencial primeiro.
  
@@ -19,10 +19,20 @@ Antes de sujar a mão com código, você precisa saber como a história foi mold
 História das linguagens: [Parte 1](https://www.youtube.com/watch?v=p9-WuJbVHHc) _(11m)_ e [Parte 2](https://www.youtube.com/watch?v=XcTTajFENHI) _(13m)_
 
 Uma característica fundamental de programadores experientes é escrever menos código, evitando desperdício e maximizando a entrega de valor. Lembre-se: _código é um meio para se criar uma solução para um problema do mundo real, e não a atividade fim_. Apesar desse pensamento não ser tão trivial, é importante começar a se habituar com o conceito [YAGNI](https://martinfowler.com/bliki/Yagni.html).
+
+## Trilhas
+
+Programação tem muitas vertentes, e no mundo do desenvolvimento web podem separadas em dois principais grupos: backend e frontend. De forma simplista o backend é aquilo não se vê, é o código que implementa regras de negócio e fica no servidor, e o frontend é a parte visual que roda no navegador. Vamos estudar isso um pouco mais a fundo:
+
+Primeiro, assista o vídeo [Conhecimentos Básicos para Iniciantes em Programação](https://www.youtube.com/watch?v=sx4hAHhO9CY) _(21m)_ que irá dar uma visão prática de como é começar em Programação
+
+Depois entenda a [A História do Front-End](https://www.youtube.com/watch?v=VKmPGmFY7H4) _(48m)_
+
+E finalmente vamos estudar as entranhas dos sistemas com o vídeo Entendendo Back-End para Iniciantes em Programação [Parte 1](https://www.youtube.com/watch?v=Qjk-cSW-jk4) _(47m)_ (_parte 2 em diante ainda não saiu..._)
  
 ## Fundação
 
-Um profissional não resolve nada sem conhecer suas ferramentas e sem saber se comunicar. É o básico do básico. Então vamos investir um tempo para fortalecer a base. Primeiro, assista o vídeo [Conhecimentos Básicos para Iniciantes em Programação](https://www.youtube.com/watch?v=sx4hAHhO9CY) _(21m)_ que irá dar uma visão prática de como é começar em Programação, depois continue nos itens abaixo:
+Um profissional não resolve nada sem conhecer suas ferramentas e sem saber se comunicar. É o básico do básico. Então vamos investir um tempo para fortalecer a base estudando os itens abaixo:
 
 ### Inglês
 
@@ -48,8 +58,6 @@ TODO
 
 ## Backend
 
-Hora de aprender as entranhas dos sistemas. Comece assistindo Entendendo Back-End para Iniciantes em Programação [Parte 1](https://www.youtube.com/watch?v=Qjk-cSW-jk4) (_partes seguintes em breve_)
-
 ### Elixir
 
 Como você já aprendeu, existem centenas de linguagens com variados propósitos e não existe a linguagem perfeita. E este guia adota a linguagem [Elixir](https://elixir-lang.org) pelos seguintes motivos:
@@ -72,13 +80,11 @@ Não é obrigatório ler os 3 livros, use como complemento do curso.
 
 ## Frontend
 
-E finalmente chegamos na parte visual, mas não menos importante. O primeiro passo é entender a [A História do Front-End](https://www.youtube.com/watch?v=VKmPGmFY7H4) e depois partir para o estudo prático:
-
 TODO: html css javascript vuejs/angular/react
 
 ## Fluxo de Trabalho
 
-Partindo pra prática no mundo real, o primeiro passo é entender o fluxo de trabalho onde é adotado o Kanban.
+Partindo pra prática no mundo real, o primeiro passo é entender o fluxo de trabalho. E este fluxo é gerenciado com Kanban:
 
 [Kanban em 5 minutos](https://vimeo.com/145281435) _(5m)_
 
@@ -87,11 +93,12 @@ Partindo pra prática no mundo real, o primeiro passo é entender o fluxo de tra
  - [ ] Assistir o vídeo **História das linguagens parte 2**
  - [ ] Ler o artigo **YAGNI**
  - [ ] Assistir o vídeo **Conhecimentos Básicos para Iniciantes em Programação**
+ - [ ] Assistir o vídeo **A História do Front-End**
+ - [ ] Assistir o vídeo **Entendendo Back-End para Iniciantes em Programação parte 1**
  - [ ] Assistir o vídeo **Como eu aprendi Inglês ?**
  - [ ] Ler o livro **Lógica de Programação**
  - [ ] Completar os tutoriais do **GitHub Guides**
  - [ ] Ler o guia **git - the simple guide**
- - [ ] Assistir o vídeo **Entendendo Back-End para Iniciantes em Programação parte 1**
  - [ ] Completar o curso **Elixir for Programmers**
  - [ ] Assistir o vídeo **Kanban em 5 minutos**
 
