@@ -28,7 +28,7 @@ Primeiro, assista o vídeo [Conhecimentos Básicos para Iniciantes em Programaç
 
 Depois entenda a [A História do Front-End](https://www.youtube.com/watch?v=VKmPGmFY7H4) _(48m)_
 
-E finalmente vamos estudar as entranhas dos sistemas com o vídeo Entendendo Back-End para Iniciantes em Programação [Parte 1](https://www.youtube.com/watch?v=Qjk-cSW-jk4) _(47m)_, [Parte 2](https://www.youtube.com/watch?v=N6vgZr1k03g) _(55m)_ e [Parte 3](https://youtu.be/cx1ULv4wYxM)_(42m)_.
+E finalmente vamos estudar as entranhas dos sistemas com o vídeo Entendendo Back-End para Iniciantes em Programação [Parte 1](https://www.youtube.com/watch?v=Qjk-cSW-jk4) _(47m)_, [Parte 2](https://www.youtube.com/watch?v=N6vgZr1k03g) _(55m)_ e [Parte 3](https://youtu.be/cx1ULv4wYxM) _(42m)_.
  
 ## Fundação
 
