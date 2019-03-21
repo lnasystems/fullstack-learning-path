@@ -22,7 +22,9 @@ Uma característica fundamental de programadores experientes é escrever menos c
 
 ## Trilhas
 
-Programação tem muitas vertentes, e no mundo do desenvolvimento web podem ser separadas em dois principais grupos: backend e frontend. De forma simplista o backend é aquilo não se vê, é o código que implementa regras de negócio e fica no servidor, e o frontend é a parte visual que roda no navegador. Vamos estudar isso um pouco mais a fundo:
+Programação tem muitas vertentes, e no mundo do desenvolvimento web podem ser separadas em dois principais grupos: backend e frontend. De forma simplista o backend é aquilo não se vê, é o código que implementa regras de negócio e fica no servidor, e o frontend é a parte visual que roda no navegador. E um terceiro caminho é o de DevOps que é o operacional de infraestrutura trabalhando em conjunto com o desenvolvimento.
+
+Vamos estudar tudo isso um pouco mais a fundo:
 
 Primeiro, assista o vídeo [Conhecimentos Básicos para Iniciantes em Programação](https://www.youtube.com/watch?v=sx4hAHhO9CY) _(21m)_ que irá dar uma visão prática de como é começar em Programação
 
