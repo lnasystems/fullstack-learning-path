@@ -48,7 +48,7 @@ Adquirir raciocínio lógico e conhecer as estruturas bases da programação é 
 
 De nada adianta escrever código se não puder compartilhar com outras pessoas ou se não puder obter o código de outros. Programação sem Git é como viver numa ilha deserta.
 
-[GitHub Guides](https://guides.github.com/)
+[Aprenda Git](http://aprenda.vidageek.net/aprenda/git) - um guia prático que combina teoria e exercícios. Complete todos.
 
 [git - the simple guide](http://rogerdudler.github.io/git-guide/index.html) - esse simples guia do Git vai te ajudar a reforçar o que foi aprendido no GitHub Guides e também serve como consulta no dia-a-dia. E sim, o git é uma ferramenta muito usada.
 
