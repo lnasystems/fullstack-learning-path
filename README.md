@@ -100,7 +100,7 @@ Partindo pra prática no mundo real, o primeiro passo é entender o fluxo de tra
  - [ ] Assistir o vídeo **Entendendo Back-End para Iniciantes em Programação parte 4**
  - [ ] Assistir o vídeo **Como eu aprendi Inglês ?**
  - [ ] Ler o livro **Lógica de Programação**
- - [ ] Completar os tutoriais do **GitHub Guides**
+ - [ ] Completar o mini-curso **Aprenda Git**
  - [ ] Ler o guia **git - the simple guide**
  - [ ] Completar o curso **Elixir for Programmers**
  - [ ] Assistir o vídeo **Kanban em 5 minutos**
