@@ -82,6 +82,10 @@ Não é obrigatório ler os 3 livros, use como complemento do curso.
 
 TODO: html css javascript vuejs/angular/react
 
+## DevOps
+
+TODO
+
 ## Fluxo de Trabalho
 
 Partindo pra prática no mundo real, o primeiro passo é entender o fluxo de trabalho. E este fluxo é gerenciado com Kanban:
