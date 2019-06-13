@@ -88,7 +88,7 @@ TODO: html css javascript vuejs/angular/react
 
 ## DevOps
 
-Primeiro vamos entender a história o alinhar o entendimento. Assista o vídeo [Entendendo "Devops" para Iniciantes em Programação (Parte 1)](https://www.youtube.com/watch?v=bwO8EZf0gLI) _(47m)_
+Primeiro vamos entender a história o alinhar o entendimento. Assista o vídeo [Entendendo "Devops" para Iniciantes em Programação (Parte 1)](https://www.youtube.com/watch?v=bwO8EZf0gLI) _(47m)_ e depois assista [Entendendo "Devops" para Iniciantes em Programação (Parte 2)](https://www.youtube.com/watch?v=mcwnQVAn0pw) _(41m)_
 
 ## Fluxo de Trabalho
 
@@ -111,6 +111,8 @@ Partindo pra prática no mundo real, o primeiro passo é entender o fluxo de tra
  - [ ] Completar o mini-curso **Aprenda Git**
  - [ ] Ler o guia **git - the simple guide**
  - [ ] Completar o curso **Elixir for Programmers**
+ - [ ] Assistir o vídeo **Entendendo DevOps para Iniciantes em Programação parte 1**
+ - [ ] Assistir o vídeo **Entendendo DevOps para Iniciantes em Programação parte 2**
  - [ ] Assistir o vídeo **Kanban em 5 minutos**
 
 ## Referências
